@@ -1,7 +1,6 @@
 {
   "name": "json-server-api",
   "version": "1.0.0",
-  "packageManager": "npm@9.6.7",
   "scripts": {
     "start": "json-server --watch db.json --port $PORT"
   },
